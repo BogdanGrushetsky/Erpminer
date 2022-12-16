@@ -1,0 +1,16 @@
+.input {
+  border: 2px solid grey;
+  font-family: inherit;
+  text-align: center;
+  padding: 5;
+  height: 50%;
+  font-size: 1rem;
+  font-weight: 500;
+  background: none;
+  border-radius: 0;
+  color: white;
+}
+
+input::placeholder{
+  color: black;
+}
